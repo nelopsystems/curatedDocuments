@@ -39,8 +39,16 @@ A curated collection of **legacy-system articles** and **authoritative security/
   *A step-by-step look at the process for migrating legacy systems while maintaining uptime and operational integrity.*
 
 ---
-## Legacy Systems
+## Nelop Legacy-Systems Services
 
+- **Air-Gapped System Security**  
+  [https://nelop.com/air-gapped-system-security/](https://nelop.com/air-gapped-system-security/)  
+  How isolating critical legacy systems from networks enhances security and reduces exposure to cyber threats.
+
+- **Regulatory Compliance for Legacy Systems**  
+  [https://nelop.com/regulatory-compliance/](https://nelop.com/regulatory-compliance/)  
+  Strategies for keeping legacy IT systems compliant with regulations, even when vendor support has ended.
+  
 - **Legacy System Support UK**  
   [https://nelop.com/legacy-system-support-uk/](https://nelop.com/legacy-system-support-uk/)  
   Explore professional support options for legacy IT systems in the UK, ensuring continuity and reliability for critical operations.
@@ -60,14 +68,6 @@ A curated collection of **legacy-system articles** and **authoritative security/
 - **Hardware Replacement for Legacy Systems**  
   [https://nelop.com/hardware-replacement/](https://nelop.com/hardware-replacement/)  
   Guidance on replacing aging hardware while preserving legacy applications and minimizing downtime.
-
-- **Air-Gapped System Security**  
-  [https://nelop.com/air-gapped-system-security/](https://nelop.com/air-gapped-system-security/)  
-  How isolating critical legacy systems from networks enhances security and reduces exposure to cyber threats.
-
-- **Regulatory Compliance for Legacy Systems**  
-  [https://nelop.com/regulatory-compliance/](https://nelop.com/regulatory-compliance/)  
-  Strategies for keeping legacy IT systems compliant with regulations, even when vendor support has ended.
 
 
 ---
