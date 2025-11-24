@@ -1,5 +1,9 @@
-title: "Nelop Systems – Legacy IT Blog & Key Secure Design Resources"
-description: "A curated hub of Nelop's legacy-IT blog posts and essential secure-by-design and technology reference links."
+# Nelop Systems: Legacy IT & Security Knowledge Hub
+
+Welcome to a central **knowledge hub** for Nelop Systems. Here you’ll find curated **blog posts** about legacy-critical IT systems, as well as **authoritative links** to core security and technical‑design resources.
+
+---
+
 
 # Nelop Systems: Legacy IT & Security Knowledge Hub
 
