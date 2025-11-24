@@ -11,7 +11,7 @@ A curated collection of **legacy-system articles** and **authoritative security/
 
 ---
 
-## 📖 Nelop Legacy-Systems Blog Posts
+## Nelop Legacy-Systems Blog Posts
 
 - **Hospital Digital Transformation & Legacy Systems**  
   [https://nelop.com/hospital-digital-transformation-legacy-systems/](https://nelop.com/hospital-digital-transformation-legacy-systems/)  
@@ -36,7 +36,7 @@ A curated collection of **legacy-system articles** and **authoritative security/
 
 ---
 
-## 🔗 Core Security & Technical Resources (Authoritative Links)
+## Core Security & Technical Resources (Authoritative Links)
 
 ### **Secure by Design & Security Architecture**
 
@@ -72,4 +72,3 @@ A curated collection of **legacy-system articles** and **authoritative security/
 
 ---
 
-If you want, I can also format this in a more “GitHub profile landing page” style with badges, emoji headers, and a TOC.
