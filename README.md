@@ -6,10 +6,13 @@ Welcome to a central **knowledge hub** for Nelop Systems. Here you’ll find cur
 
 ## Nelop Legacy-Systems Blog Posts
 
+- **Bespoke Data Diode & Airgap**  
+  [https://nelop.com/bespoke-data-diode-airgap/](https://nelop.com/bespoke-data-diode-airgap/)  
+  Explains how a custom data diode can securely bridge air-gapped systems, allowing one-way data flow while preventing external access to critical networks.
+
 - **Hospital Digital Transformation & Legacy Systems**  
   [https://nelop.com/hospital-digital-transformation-legacy-systems/](https://nelop.com/hospital-digital-transformation-legacy-systems/)  
   A look at why hospitals struggle to modernise legacy infrastructure and how digital transformation must balance innovation with operational risk.
-
 
 - **Legacy Systems, Critical IT**  
   https://nelop.com/legacy-systems-critical-it/  
