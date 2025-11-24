@@ -22,6 +22,10 @@ A curated collection of **legacy-system articles** and **authoritative security/
   https://nelop.com/legacy-systems-critical-it/  
   *An overview of why legacy systems remain essential to modern infrastructure and the risks they introduce when left unmanaged.*
 
+- **Avoid Security Issues by Air Gapping Legacy Systems**  
+  [https://nelop.com/air-gapping-legacy-systems/](https://nelop.com/air-gapping-legacy-systems/)  
+  Explains how isolating legacy systems from networks can reduce risk — but also highlights the new security challenges and operational trade‑offs introduced by air‑gapping.
+
 - **The Hidden Cost of Maintaining Legacy Systems**  
   https://nelop.com/hidden-cost-maintaining-legacy-systems-fix/  
   *A breakdown of the financial, operational, and security costs associated with sustaining outdated technology.*
