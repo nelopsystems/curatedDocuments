@@ -4,13 +4,6 @@ Welcome to a central **knowledge hub** for Nelop Systems. Here you’ll find cur
 
 ---
 
-
-# Nelop Systems: Legacy IT & Security Knowledge Hub
-
-A curated collection of **legacy-system articles** and **authoritative security/technical resources**, updated regularly.
-
----
-
 ## Nelop Legacy-Systems Blog Posts
 
 - **Hospital Digital Transformation & Legacy Systems**  
