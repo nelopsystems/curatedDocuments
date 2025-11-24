@@ -14,10 +14,8 @@ A curated collection of **legacy-system articles** and **authoritative security/
 ## 📖 Nelop Legacy-Systems Blog Posts
 
 - **Hospital Digital Transformation & Legacy Systems**
-  
   https://nelop.com/hospital-digital-transformation-legacy-systems/
   *A look at why hospitals struggle to modernise legacy infrastructure and how digital transformation must balance innovation with operational risk.*
-
 
 - **Legacy Systems, Critical IT**  
   https://nelop.com/legacy-systems-critical-it/  
