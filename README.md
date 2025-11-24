@@ -1,8 +1,5 @@
----
 title: "Nelop Systems – Legacy IT Blog & Key Secure Design Resources"
 description: "A curated hub of Nelop's legacy-IT blog posts and essential secure-by-design and technology reference links."
-keywords: ["legacy systems", "secure by design", "Raspberry Pi", "OWASP", "IT security", "legacy IT migration"]
----
 
 # Nelop Systems: Legacy IT & Security Knowledge Hub
 
@@ -11,6 +8,11 @@ A curated collection of **legacy-system articles** and **authoritative security/
 ---
 
 ## 📖 Nelop Legacy-Systems Blog Posts
+
+- **Hospital Digital Transformation & Legacy Systems**
+  https://nelop.com/hospital-digital-transformation-legacy-systems/
+  *A look at why hospitals struggle to modernise legacy infrastructure and how digital transformation must balance innovation with operational risk.*
+
 
 - **Legacy Systems, Critical IT**  
   https://nelop.com/legacy-systems-critical-it/  
