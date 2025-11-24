@@ -39,6 +39,38 @@ A curated collection of **legacy-system articles** and **authoritative security/
   *A step-by-step look at the process for migrating legacy systems while maintaining uptime and operational integrity.*
 
 ---
+## Legacy Systems
+
+- **Legacy System Support UK**  
+  [https://nelop.com/legacy-system-support-uk/](https://nelop.com/legacy-system-support-uk/)  
+  Explore professional support options for legacy IT systems in the UK, ensuring continuity and reliability for critical operations.
+
+- **Running COBOL on Linux**  
+  [https://nelop.com/cobol-on-linux/](https://nelop.com/cobol-on-linux/)  
+  Learn how COBOL applications can be migrated to modern Linux environments while maintaining functionality and compliance.
+
+- **Legacy UNIX Systems**  
+  [https://nelop.com/legacy-unix-systems/](https://nelop.com/legacy-unix-systems/)  
+  An overview of maintaining and modernizing legacy UNIX systems safely and efficiently.
+
+- **DOS & OS/2 Applications**  
+  [https://nelop.com/dos-os-2-applications/](https://nelop.com/dos-os-2-applications/)  
+  Insights on keeping DOS and OS/2 applications operational in today’s computing environments.
+
+- **Hardware Replacement for Legacy Systems**  
+  [https://nelop.com/hardware-replacement/](https://nelop.com/hardware-replacement/)  
+  Guidance on replacing aging hardware while preserving legacy applications and minimizing downtime.
+
+- **Air-Gapped System Security**  
+  [https://nelop.com/air-gapped-system-security/](https://nelop.com/air-gapped-system-security/)  
+  How isolating critical legacy systems from networks enhances security and reduces exposure to cyber threats.
+
+- **Regulatory Compliance for Legacy Systems**  
+  [https://nelop.com/regulatory-compliance/](https://nelop.com/regulatory-compliance/)  
+  Strategies for keeping legacy IT systems compliant with regulations, even when vendor support has ended.
+
+
+---
 
 ## Core Security & Technical Resources (Authoritative Links)
 
