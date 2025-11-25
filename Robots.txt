@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nelopsystems.github.io/curatedDocuments/sitemap.xml
