@@ -6,6 +6,10 @@ Welcome to a central **knowledge hub** for Nelop Systems. Here you’ll find cur
 
 ## Nelop Legacy-Systems Blog Posts
 
+- **LattePanda IoTA: A Compact, Enterprise-Grade Edge Compute Node**
+  [https://nelop.com/lattepanda-iota-edge-compute-node/](https://nelop.com/lattepanda-iota-edge-compute-node/)
+  The LattePanda IoTA is a compact, Intel-powered edge compute node running Red Hat 10, capable of hosting VMs, containers, and code while offering low-power, fanless operation for enterprise and industrial deployments.
+
 - **Bespoke Data Diode & Airgap**  
   [https://nelop.com/bespoke-data-diode-airgap/](https://nelop.com/bespoke-data-diode-airgap/)  
   Explains how a custom data diode can securely bridge air-gapped systems, allowing one-way data flow while preventing external access to critical networks.
